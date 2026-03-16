@@ -21,7 +21,11 @@ Per instal·lar aquest script necessites:
 1. Instal·la **Tampermonkey** des de la seva web oficial, selecciona el teu navegador i ves a l'apartat `Download`:  
    👉 [https://www.tampermonkey.net/](https://www.tampermonkey.net/)
 
-2. Fes clic aquí per instal·lar l'Esfer@a PowerToys:  
+2. [Només si fas servir Chrome] Ves a la configuració de l'extensió i assegura't que estan autoritzats els scripts d'usuari.
+
+![Captura de pantalla](./docs/settings-Tampermonkey-Chrome.png)
+
+3. Fes clic aquí per instal·lar l'Esfer@a PowerToys:  
    👉 [`Esfera-PowerToy-Avaluacio-massiva-per-DNI
 `](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/esfera-avaluacio-dni.user.js)
 

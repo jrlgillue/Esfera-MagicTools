@@ -31,14 +31,13 @@ Per a fer funcionar aquestes eines necessites:
 3. Fes clic aquí per instal·lar l'eina o les eines que t'interessin:  
    👉 [`Esfera-MagicTools-Avaluacio-massiva-per-DNI
 `](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/esfera-avaluacio-dni.user.js)
+
    👉 [`Esfera-MagicTools-Extraccio-notes-grup
 `](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/esfera-extraccio-qualificacions-grup.js)
 
    Tampermonkey t'obrirà una pestanya amb el codi i un botó per **"Install"**.
 
-4. Un cop instal·lat, quan entris a qualificacions finals per grup i alumne/a et permetrà fer copy-paste de les notes des d'un full de càlcul.
-
-   L'script s'activarà automàticament. En cas necessari, els scripts es poden desactivar al panell de control (dashboard) de TamperMonkey.
+4. L'script s'activarà automàticament al visitar la pàgina d'Esfera corresponent. En cas necessari, els scripts es poden desactivar al panell de control (dashboard) de TamperMonkey.
 
 ---
 
@@ -51,7 +50,19 @@ Per a fer funcionar aquestes eines necessites:
 
 ---
 
-![Captura de pantalla](./docs/aspecte_GUI.png)
+## 🔧 Eina 1: Introducció massiva de notes per DNI
+
+Cal preparar un fitxer on cada línia tingui el DNI i la nota.
+
+![Captura de pantalla](./docs/captura-insercio.png)
+
+---
+
+## 🔧 Eina 2: Extracció de les notes d'un grup
+
+Cal visitar les pàgines de cadascun dels alumnes. L'script va acumulant les dades. Quan les tenim totes descarreguem el fitxer CSV.
+
+![Captura de pantalla](./docs/captura-extraccio.png)
 
 ---
 
@@ -59,14 +70,14 @@ Per a fer funcionar aquestes eines necessites:
 
 Estàs convidat/da a col·laborar!
 
-- Tens idees de millores?
+- Tens idees per a millorar aquestes eines o crear-ne de noves?
 - Has trobat algun error?
 - Vols afegir suport a altres parts de l’Esfer@?
 
 Fes un fork del repositori, obre una pull request, o obre una issue. Totes les contribucions són benvingudes!
 
 📌 Repositori:  
-[https://github.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI](https://github.com/ctrl-alt-d/EsferaPowerToys)
+[https://github.com/jrlgillue/Esfera-MagicTools](https://github.com/jrlgillue/Esfera-MagicTools)
 
 ---
 

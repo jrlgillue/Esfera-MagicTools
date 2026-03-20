@@ -2,7 +2,7 @@
 
 Recull d'eines per a millorar la productivitat i l'explotació de les dades a la plataforma Esfer@ d'avaluació del Departament d'Educació de la Generalitat de Catalunya.
 
-(Inspirat en el projecte [EsferaPowerToys](https://github.com/ctrl-alt-d/EsferaPowerToys/tree/main))
+(Inspirat pel projecte [EsferaPowerToys](https://github.com/ctrl-alt-d/EsferaPowerToys/tree/main))
 
 Eines disponibles:
 - **Eina 1: Introducció massiva de qualificacions:** Permet aplicar les notes (o l'estat) d'un RA a tot l'alumnat d'un grup. Malauradament, encara cal fer-ho RA a RA.

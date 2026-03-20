@@ -41,20 +41,18 @@ Per a fer funcionar aquestes eines necessites:
 
 ---
 
+## 🔧 Eina 1: Introducció massiva de notes per DNI
+
+Cal preparar un fitxer on cada línia tingui el DNI i la nota.
+
+![Captura de pantalla](./docs/captura-insercio.png)
+
 ## Funcionalitats actuals
 
 - ✅ Aplicació massiva de notes qualitatives a cada matèria.
 - ✅ Traducció automàtica de notes numèriques a valors com `A10`, `A7`, `PDT`, etc.
 - ✅ Scroll automàtic a l'assignatura per veure els canvis.
 - ✅ Interfície afegida al principi de la pàgina amb inputs i botons útils.
-
----
-
-## 🔧 Eina 1: Introducció massiva de notes per DNI
-
-Cal preparar un fitxer on cada línia tingui el DNI i la nota.
-
-![Captura de pantalla](./docs/captura-insercio.png)
 
 ---
 

@@ -29,11 +29,14 @@ Per a fer funcionar aquestes eines necessites:
 ![Captura de pantalla](./docs/settings-Tampermonkey-Chrome.png)
 
 3. Fes clic aquí per instal·lar l'eina o les eines que t'interessin:  
-   👉 [`Esfera-MagicTools-Introducció massiva de notes per DNI
-`](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/insercio-massiva-per-dni.js)
+   👉 [`Esfera-MagicTools - Introducció massiva de notes per DNI
+`](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/insercio-massiva-per-dni.user.js)
 
-   👉 [`Esfera-MagicTools-Extraccio-notes-grup
-`](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/esfera-extraccio-qualificacions-grup.js)
+   👉 [`Esfera-MagicTools - Extraccio notes grup
+`](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/esfera-extraccio-qualificacions-grup.user.js)
+
+
+   👉 [`Esfer@ PowerToys`](https://raw.githubusercontent.com/ctrl-alt-d/EsferaPowerToys/refs/heads/main/dist/script.user.js)
 
    Tampermonkey t'obrirà una pestanya amb el codi i un botó per **"Install"**.
 

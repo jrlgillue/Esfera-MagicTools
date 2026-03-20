@@ -29,14 +29,16 @@ Per a fer funcionar aquestes eines necessites:
 ![Captura de pantalla](./docs/settings-Tampermonkey-Chrome.png)
 
 3. Fes clic aquí per instal·lar l'eina o les eines que t'interessin:  
-   👉 [`Esfera-PowerToy-Avaluacio-massiva-per-DNI
+   👉 [`Esfera-MagicTools-Avaluacio-massiva-per-DNI
 `](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/esfera-avaluacio-dni.user.js)
+   👉 [`Esfera-MagicTools-Extraccio-notes-grup
+`](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/esfera-extraccio-qualificacions-grup.js)
 
    Tampermonkey t'obrirà una pestanya amb el codi i un botó per **"Install"**.
 
 4. Un cop instal·lat, quan entris a qualificacions finals per grup i alumne/a et permetrà fer copy-paste de les notes des d'un full de càlcul.
 
-   L'script s'activarà automàticament.
+   L'script s'activarà automàticament. En cas necessari, els scripts es poden desactivar al panell de control (dashboard) de TamperMonkey.
 
 ---
 

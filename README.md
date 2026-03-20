@@ -1,15 +1,18 @@
-# Esfera-PowerToy-Avaluacio-massiva-per-DNI
-Millora accessibilitat per a la plataforma Esfer@ d'avaluació del Departament d'Educació de la Generalitat de Catalunya.
+# Esfera-MagicTools
 
-Permet aplicar les notes (o l'estat) d'un RA a tot l'alumnat d'un grup. Malauradament, cal fer-ho RA a RA.
+Recull d'eines per a millorar la productivitat i l'explotació de les dades a la plataforma Esfer@ d'avaluació del Departament d'Educació de la Generalitat de Catalunya.
 
 (Inspirat en el projecte [EsferaPowerToys](https://github.com/ctrl-alt-d/EsferaPowerToys/tree/main))
+
+Eines disponibles:
+- Introducció massiva de qualificacions: Permet aplicar les notes (o l'estat) d'un RA a tot l'alumnat d'un grup. Malauradament, encara cal fer-ho RA a RA.
+- Extracció de qualificacions d'un grup: Permet extreure les notes de tot l'alumnat d'un grup. Millor que comprar-se una lupa per a intentar veure les actes d'avaluació d'Esfera!
 
 ---
 
 ## 🔧 Requisits
 
-Per instal·lar aquest script necessites:
+Per a fer funcionar aquestes eines necessites:
 
 - 🔌 [Tampermonkey](https://www.tampermonkey.net/) — una extensió per a navegadors que permet executar scripts d'usuari.
 - 🌐 Un navegador compatible (Chrome, Firefox, Edge...).

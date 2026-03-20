@@ -5,8 +5,8 @@ Recull d'eines per a millorar la productivitat i l'explotació de les dades a la
 (Inspirat en el projecte [EsferaPowerToys](https://github.com/ctrl-alt-d/EsferaPowerToys/tree/main))
 
 Eines disponibles:
-- Eina 1: Introducció massiva de qualificacions: Permet aplicar les notes (o l'estat) d'un RA a tot l'alumnat d'un grup. Malauradament, encara cal fer-ho RA a RA.
-- Eina 2: Extracció de qualificacions d'un grup: Permet extreure les notes de tot l'alumnat d'un grup. Millor que comprar-se una lupa per a intentar veure les actes d'avaluació d'Esfera!
+- **Eina 1: Introducció massiva de qualificacions:** Permet aplicar les notes (o l'estat) d'un RA a tot l'alumnat d'un grup. Malauradament, encara cal fer-ho RA a RA.
+- **Eina 2: Extracció de qualificacions d'un grup:** Permet extreure les notes de tot l'alumnat d'un grup. Millor que comprar-se una lupa per a intentar veure les actes d'avaluació d'Esfera!
 
 ---
 

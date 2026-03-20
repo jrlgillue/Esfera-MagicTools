@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Esfer@ PowerToy – Avaluació massiva per DNI
+// @name         Esfer@ MagicTools – Inserció massiva de notes per DNI
 // @namespace    https://bfgh.aplicacions.ensenyament.gencat.cat/
 // @version      1.2.0
 // @description  Emplenat massiu de notes + bulk + desfer + confirmacions

@@ -30,7 +30,7 @@ Per a fer funcionar aquestes eines necessites:
 
 3. Fes clic aquí per instal·lar l'eina o les eines que t'interessin:  
    👉 [`Esfera-MagicTools-Introducció massiva de notes per DNI
-`](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/insercio-massiva-per-dni.user.js.js)
+`](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/insercio-massiva-per-dni.js)
 
    👉 [`Esfera-MagicTools-Extraccio-notes-grup
 `](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/esfera-extraccio-qualificacions-grup.js)

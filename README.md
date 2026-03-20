@@ -25,7 +25,7 @@ Per instal·lar aquest script necessites:
 
 ![Captura de pantalla](./docs/settings-Tampermonkey-Chrome.png)
 
-3. Fes clic aquí per instal·lar l'Esfer@a PowerToys:  
+3. Fes clic aquí per instal·lar l'eina o les eines que t'interessin:  
    👉 [`Esfera-PowerToy-Avaluacio-massiva-per-DNI
 `](https://raw.githubusercontent.com/jrlgillue/Esfera-PowerToy-Avaluacio-massiva-per-DNI/main/esfera-avaluacio-dni.user.js)
 

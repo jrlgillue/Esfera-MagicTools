@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Esfer@ MagicTools – Inserció massiva de notes per DNI
+// @name         Esfer@-MagicTools - Inserció massiva de notes per DNI
 // @namespace    https://bfgh.aplicacions.ensenyament.gencat.cat/
-// @version      1.2.0
-// @description  Emplenat massiu de notes + bulk + desfer + confirmacions
+// @version      1.2.1
+// @description  Emplenat massiu de notes
 // @author       Joan Ramon López Gillué  <jrlgillue@gmail.com>
 // @match        https://bfgh.aplicacions.ensenyament.gencat.cat/bfgh/avaluacio/finalAvaluacioGrupMateria/*
 // @grant        none

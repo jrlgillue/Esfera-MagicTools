@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Esfer@-MagicTools - Captura qualificacions FP i exportar a CSV 
 // @namespace    https://bfgh.aplicacions.ensenyament.gencat.cat/
-// @version      1.3
+// @version      1.2.2
 // @description  Acumula qualificacions alumne a alumne i exporta CSV. 
+// @author       Joan Ramon López Gillué  <jrlgillue@gmail.com>
 // @match        https://bfgh.aplicacions.ensenyament.gencat.cat/bfgh/avaluacio/finalAvaluacioGrupAlumne/*
 // @grant        GM_getValue
 // @grant        GM_setValue
